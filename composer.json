@@ -1,0 +1,20 @@
+{
+    "name": "kappelgkd/studio",
+    "description": "Breve projeto.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Domain\\": "src/Domain/",
+            "Application\\": "src/Applicatio/n",
+            "Infrastructure\\": "src/Infrastructure/",
+            "Presentation\\": "src/Presentation/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kappelgkd"
+        }
+    ],
+
+    "require": {}
+}
